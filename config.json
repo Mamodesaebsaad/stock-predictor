@@ -1,0 +1,5 @@
+{
+  "data_source": "yfinance",
+  "custom_api_url": "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol={ticker}&apikey=07OPZY8M4CQAE5CQ"
+}
+
